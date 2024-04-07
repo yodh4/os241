@@ -28,3 +28,8 @@ ZCZC W05 120 L09 Assignment in General
 ZCZC W05 40 L05 Quiz related including studying
 ZCZC W05 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 15 L05 Quiz related including studying
+ZCZC W06 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 60 L09 Assignment in General
+ZCZC W06 10 L05 Quiz related including studying
+ZCZC W06 20 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01
+ZCZC W06 30 L83 Pets: feeding, playing, etc

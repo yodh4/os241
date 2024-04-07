@@ -3,7 +3,8 @@ permalink: LINKS/
 ---
 
 # LINKS
-
+* [What is a Thread | Concept of Process and Thread | Operating System](https://www.youtube.com/watch?v=RDr7xCunN80) - Video that explaining what is thread and how it works. This video will make you understand how threads work so you can actually understand what happen when we use multithreading
+* [Visualization of a fork call in C](https://www.youtube.com/watch?v=QD9YKSg3wCc) - This video explains about how fork call work. This video is very good because it has very clear explanation about how fork call work, the code in this video also very easy to understand.
 * [File Structure in Linux](https://www.youtube.com/watch?v=HbgzrKJvDRw&t=299s) - Video to understand how files structure work in linux. I think this video is interesting because it explains the various default folders in Linux such as /tmp, /bin, /lib, /root, etc. However, I still don't fully understand the contents of this video because I still have little experience using Linux
 * [How SSH key Works ?](https://www.youtube.com/watch?v=y2SWzw9D4RA) - A short video explaining what is SSH and how it works. I often carry out instructions that require using SSH, such as in PBP, OS, or Adpro courses. But I just carried out these instructions without understanding what SSH is, this video makes me understand the function of SSH better
 * [Why so many distros? The Weird History of Linux](https://www.youtube.com/watch?v=ShcR4Zfc6Dw&t=142s) - A video explaining history of linux OS and what is distro in linux. I am interested in Linux operations because I see many programmers who use Linux OS. This video explains me about the history of Linux and several existing distributions such as Redhat, Debian, Arch, etc.
